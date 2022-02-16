@@ -1,0 +1,2 @@
+Unit Tests: a way of testing the smallest pieces of code in an isolated instance. Typically, in a local environment.
+Integration Tests: a way to test across multiple complex systems. Typically, in a testnet.
